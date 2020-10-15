@@ -1,0 +1,20 @@
+namename-- SELECT * FROM skooldaze.danceclass;CREATE TABLE Dance Class;
+-- name CHAR PRIMARY KEY, 
+-- classId CHAR,           
+-- instructorID CHAR,     
+-- roomID INTEGER              
+
+-- FOREIGN KEY (classID) REFERENCES classes (id),
+-- FOREIGN KEY (roomID) REFERENCES insructors (id),
+
+-- CREATE TABLE Dancers(
+-- roomID INTEGER PRIMARY KEY,       
+-- firstName VARCHAR(100),
+-- lastName VARCHAR(100)
+
+
+-- INSERT INTO Dance Class VALUES
+-- ("Jay" "mambo", "Moore", 17),
+-- ( "Melissa", "salsa", "Julienne", 6),
+-- ("Guy", "hiphop", "Max", 8),
+-- ("Quanda", "ballroom", "Mike", 13),
